@@ -35,7 +35,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/btnEnter"
-        android:onClick="showMsg"/>
+        android:onClick="accesApp"/>
 
     <TextView
         android:id="@+id/tvRegister"
@@ -44,6 +44,12 @@
         android:text="@string/tvRegister"
         android:textAlignment="center"
         android:textAppearance="@style/TextAppearance.AppCompat.Body2"/>
+
+    <ProgressBar
+        style="?android:attr/progressBarStyleSmall"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/pBar" />
 
 
 </LinearLayout>

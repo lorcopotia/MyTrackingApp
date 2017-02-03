@@ -8,4 +8,5 @@
     <string name="btnEnter">Enter</string>
     <string name="tvRegister">Register</string>
     <string name="btnRegister">Create account</string>
+    <string name="msg_close_app">Press twice to quit app</string>
 </resources>
