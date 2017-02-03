@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">MyTrackingApp</string>
+
+    <string name="edFullName">Full name</string>
+    <string name="edUser">Username</string>
+    <string name="edEmail">Email</string>
+    <string name="edPass">Password</string>
+    <string name="btnEnter">Enter</string>
+    <string name="tvRegister">Register</string>
+    <string name="btnRegister">Create account</string>
 </resources>
